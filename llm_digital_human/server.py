@@ -120,7 +120,7 @@ def llm_process(input_text):
 
         try:
             import openai
-            openai.api_key = "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"
+            openai.api_key = ""
             
             client = openai.OpenAI(
                 base_url="https://openrouter.ai/api/v1",
