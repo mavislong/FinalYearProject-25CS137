@@ -1,0 +1,38 @@
+{
+  "groups": [
+    "neutral",
+    "positive",
+    "warm",
+    "curious",
+    "desire",
+    "angry",
+    "disgust",
+    "sad",
+    "anxious",
+    "surprised"
+  ],
+  "group_to_id": {
+    "neutral": 0,
+    "positive": 1,
+    "warm": 2,
+    "curious": 3,
+    "desire": 4,
+    "angry": 5,
+    "disgust": 6,
+    "sad": 7,
+    "anxious": 8,
+    "surprised": 9
+  },
+  "id_to_group": {
+    "0": "neutral",
+    "1": "positive",
+    "2": "warm",
+    "3": "curious",
+    "4": "desire",
+    "5": "angry",
+    "6": "disgust",
+    "7": "sad",
+    "8": "anxious",
+    "9": "surprised"
+  }
+}
